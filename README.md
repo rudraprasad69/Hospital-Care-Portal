@@ -27,15 +27,6 @@ The Hospital Care Portal is a modern, web-based application designed to empower 
 -   **Billing System:** View and manage medical bills, payment history, and insurance information.
 -   **User Profile:** Update personal information and manage account settings.
 
-## 📸 Screenshots
-
-| Medical Records                          | Appointments Page                               |
-| ----------------------------------------------- | ----------------------------------------------- |
-| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4c89060-24df-491d-a1ba-806e993625c0" />
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/927bf12d-2a8f-4a7c-b748-1742d5893e62" />
-
-
-*(Action: Add compelling screenshots of your application's key pages to visually demonstrate its functionality.)*
 
 ## 🛠️ Technologies Used
 
