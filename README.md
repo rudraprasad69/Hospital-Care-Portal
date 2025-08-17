@@ -29,9 +29,11 @@ The Hospital Care Portal is a modern, web-based application designed to empower 
 
 ## 📸 Screenshots
 
-| Dashboard / Home Page                           | Appointments Page                               |
+| Medical Records                          | Appointments Page                               |
 | ----------------------------------------------- | ----------------------------------------------- |
-| ![Dashboard View](path/to/dashboard_screenshot.png) | ![Appointments View](path/to/appts_screenshot.png) |
+| ![Dashboard View](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4c89060-24df-491d-a1ba-806e993625c0" />
+) | ![Appointments View](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/927bf12d-2a8f-4a7c-b748-1742d5893e62" />
+) |
 
 *(Action: Add compelling screenshots of your application's key pages to visually demonstrate its functionality.)*
 
