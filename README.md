@@ -1,8 +1,7 @@
 # Hospital Care Portal: A Patient Management System
 
-<p align="center">
-  <img src="path/to/your/hospital-portal-banner.png" alt="Hospital Care Portal Banner" width="800">
-</p>
+<img width="960" height="540" alt="{21A97A3B-4774-47D6-9DC5-61B401AB01F1}" src="https://github.com/user-attachments/assets/a6b00786-8040-4279-9dc7-69c32d9500d4" />
+
 
 <p align="center">
   <img src="https://img.shields.io/github/license/rudraprasad69/Hospital-Care-Portal" alt="License">
